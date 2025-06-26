@@ -1,8 +1,8 @@
 - 👋 Hello, my name is Johnny Long Vo.
 - 👀 I am currently a student studying Computer Science at UCO.
-- 🌱 I'm a Senior, graduating 2023. I am to become a developer in C++, C#, and Java.
-- 💞️ I’m looking to collaborate with anybody, just send a message ...
-- 📫 How to reach me ...
+- 🌱 I'm a Senior, graduating 2023. Master's in Computer Science (so YAY me!!!)
+- 💞️ I’m looking to collaborate with some good programmers, just send a message ...
+
 
 <!---
 johnnylongvo/johnnylongvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
