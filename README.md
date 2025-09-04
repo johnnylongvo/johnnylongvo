@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Johnny Long Vo.
 - 👀 I am currently a student studying Computer Science at UCO.
-- 🌱 I'm a Senior, graduating 2023. Master's in Computer Science (so YAY me!!!)
+- 🌱 I'm a B.S 2023 - M.S. 2025 Computer Science (so YAY me!!!)
 - 💞️ I’m looking to collaborate with some good programmers, just send a message ...
 
 
